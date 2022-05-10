@@ -1,0 +1,10 @@
+22698_binarized;22699_binarized,7
+22697_binarized;22699_binarized,8
+22699_binarized;22697_binarized,8
+22697_binarized;22698_binarized,7
+22699_binarized;22697_binarized;22698_binarized,7
+22699_binarized;22698_binarized;22697_binarized,7
+22697_binarized;22699_binarized;22698_binarized,7
+22698_binarized;22697_binarized,7
+22697_binarized;22698_binarized;22699_binarized,7
+22698_binarized;22699_binarized;22697_binarized,7
