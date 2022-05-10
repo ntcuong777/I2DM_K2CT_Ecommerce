@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="remoteExperimentServer">
+    <CLASSES>
+      <root url="jar:///Applications/weka-3.8.6.app/Contents/app/remoteExperimentServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
