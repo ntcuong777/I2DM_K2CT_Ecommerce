@@ -10,7 +10,7 @@ import com.k2ct.fpgrowth.FpGrowth;
 
 
 
-public class FPGrowthDemo {
+public class FPGrowthRunner {
     public static void main(String[] args) throws Exception {
         FpGrowth model = new FpGrowth("data/TransDataByCustomerID_train.arff",
                 "-P 2 -I -1 -N 10 -T 0 -C 0.9 -D 0.05 -U 1.0 -M 0.03 -S", "-R 1");
